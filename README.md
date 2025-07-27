@@ -24,8 +24,7 @@
     <p>
       The notes emphasize the utility of abstract concepts through a study of the real numbers, and teach an understanding and construction of rigorous mathematical proofs.
     </p>
-
-    <h4 class="mt-4">🧠 Topics Covered</h4>
+    <h4>🧠 Topics Covered</h4>
     <ul class="list-group list-group-flush">
       <li class="list-group-item bg-dark text-white">✔️ Convergence of sequences and series</li>
       <li class="list-group-item bg-dark text-white">✔️ Continuity</li>
@@ -34,7 +33,6 @@
       <li class="list-group-item bg-dark text-white">✔️ Sequences and series of functions</li>
       <li class="list-group-item bg-dark text-white">✔️ Uniform convergence and interchange of limit operations</li>
     </ul>
-
     <h5 class="mt-4">📝 Notes (PDF / Markdown / HTML links)</h5>
     <ul class="list-group list-group-flush">
       <li class="list-group-item bg-dark"><a href="#" class="text-white text-decoration-none">Lecture 1 – Real Numbers and Completeness</a></li>
