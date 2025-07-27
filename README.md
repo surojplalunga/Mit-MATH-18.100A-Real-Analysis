@@ -20,20 +20,18 @@
     <h1 class="mb-3">📘 MIT MATH 18.100A - Real Analysis</h1>
     <p class="lead text-light">
       This repository contains the notes of the fundamentals of mathematical analysis, based on MIT OpenCourseWare.
+      https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/pages/syllabus/
     </p>
-    <p>
-      The notes emphasize the utility of abstract concepts through a study of the real numbers, and teach an understanding and construction of rigorous mathematical proofs.
-    </p>
-    <h4>🧠 Topics Covered</h4>
+    <h4> Topics Covered</h4>
     <ul class="list-group list-group-flush">
-      <li class="list-group-item bg-dark text-white">✔️ Convergence of sequences and series</li>
-      <li class="list-group-item bg-dark text-white">✔️ Continuity</li>
-      <li class="list-group-item bg-dark text-white">✔️ Differentiability</li>
-      <li class="list-group-item bg-dark text-white">✔️ Riemann Integral</li>
-      <li class="list-group-item bg-dark text-white">✔️ Sequences and series of functions</li>
-      <li class="list-group-item bg-dark text-white">✔️ Uniform convergence and interchange of limit operations</li>
+      <li class="list-group-item bg-dark text-white"> Convergence of sequences and series</li>
+      <li class="list-group-item bg-dark text-white"> Continuity</li>
+      <li class="list-group-item bg-dark text-white"> Differentiability</li>
+      <li class="list-group-item bg-dark text-white"> Riemann Integral</li>
+      <li class="list-group-item bg-dark text-white"> Sequences and series of functions</li>
+      <li class="list-group-item bg-dark text-white"> Uniform convergence and interchange of limit operations</li>
     </ul>
-    <h5 class="mt-4">📝 Notes (PDF / Markdown / HTML links)</h5>
+    <h5 class="mt-4">📝 Notes </h5>
     <ul class="list-group list-group-flush">
       <li class="list-group-item bg-dark"><a href="#" class="text-white text-decoration-none">Lecture 1 – Real Numbers and Completeness</a></li>
       <li class="list-group-item bg-dark"><a href="#" class="text-white text-decoration-none">Lecture 2 – Convergence and Limits</a></li>
@@ -44,4 +42,3 @@
 
 </body>
 </html>
-e  the utility of abstract concepts through a study of real numbers, and teaches an understanding and construction of proofs.
