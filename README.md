@@ -4,20 +4,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>MIT 18.100A Real Analysis Notes</title>
+  <title>📘 MIT 18.100A Real Analysis Notes</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body class="bg-black text-white">
-
-  <nav class="navbar navbar-dark bg-dark">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="index.html">← Back to Categories</a>
-    </div>
-  </nav>
-
   <div class="container py-5">
-    <h1 class="mb-3">📘 MIT MATH 18.100A - Real Analysis</h1>
     <p class="lead text-light">
       This repository contains the notes of the fundamentals of mathematical analysis, based on MIT OpenCourseWare.
       https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/pages/syllabus/
