@@ -24,12 +24,7 @@
       <li class="list-group-item bg-dark text-white"> Uniform convergence and interchange of limit operations</li>
     </ul>
     <h5 class="mt-4">📝 Notes </h5>
-    <ul class="list-group list-group-flush">
-      <li class="list-group-item bg-dark"><a href="#" class="text-white text-decoration-none">Lecture 1 – Real Numbers and Completeness</a></li>
-      <li class="list-group-item bg-dark"><a href="#" class="text-white text-decoration-none">Lecture 2 – Convergence and Limits</a></li>
-      <li class="list-group-item bg-dark"><a href="#" class="text-white text-decoration-none">Lecture 3 – Continuity and Compactness</a></li>
-      <!-- Add more links as your notes grow -->
-    </ul>
+  
   </div>
 
 </body>
